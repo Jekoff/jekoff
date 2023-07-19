@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hi there, I'm Jérôme 👋 
 
 <!--
 **Jekoff/jekoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
